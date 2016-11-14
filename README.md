@@ -35,3 +35,11 @@ Refer to DataDescription.txt
 | Euclidean                      | 0.16929                  | 0.0931429                 |
 | Euclidean Normed               | 0.2107                   | 0.1174                    |
 | Neural Network (standard)      | 0.6551                   | 0.1866                    |
+
+### Files for detectors
+
+- Neural Network (standard) - NeuratNetStandardDetector.ipynb
+- Neural Network (auto-assoc) - NeuratNetAutoAssocDetector.ipynb
+- Svm - svm.ipynb
+- KMeans - kmeans.ipynb
+- Other detectors - KeystrokeDynamics.ipynb
